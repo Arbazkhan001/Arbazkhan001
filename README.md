@@ -60,15 +60,6 @@ public class JavaBackendDeveloper {
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arbazkhan001&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazkhan001&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - **Phone:** `+91-8358021269`
