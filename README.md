@@ -48,11 +48,11 @@ public class JavaBackendDeveloper {
 
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 🎓 **[Tutorio LMS Backend](./tutorio-backend-main)** | `Java 21`, `Spring Boot 3.4`, `AWS S3`, `Firebase` | Automated PDF certificate engine (`XDocReport`), pure Java HTML-to-PDF invoice engine (`OpenHTMLtoPDF`), and FCM push notifications. |
-| 🌳 **[PomoKing Tree Adoption System](./ecommerce-pomegranate-main)** | `Java 17`, `Spring Boot 3.3`, `Dynamic Split Payments` | 8-stage adoption & harvest lifecycle sequence, rider doorstep OTP delivery verification, and dynamic payment split engine (60/40). |
-| ⚡ **[TrackTool SaaS Backend](./t-rack-tool-backend-main)** | `Java 17`, `WebSockets`, `Razorpay`, `Cloudinary` | Real-time multi-tenant project management, live WebSocket STOMP messaging, Razorpay subscriptions, and Caffeine caching. |
-| 🌿 **[Organic Produce Marketplace](./ecommerce-organic-main)** | `Java 17`, `Cloudflare R2`, `Jeebly Courier`, `Stripe` | Organic e-commerce backend integrated with zero-egress Cloudflare R2 cloud storage, Jeebly logistics webhooks, and Stripe payments. |
-| 🛒 **[Angola Multi-Vendor E-Commerce](./ecommerce-angola-main)** | `Java 17`, `Spring Boot 3.3`, `Shiprocket`, `RBAC` | Scalable multi-tenant vendor platform with multi-role RBAC security, Shiprocket logistics dispatch, and seller payouts. |
+| 🎓 **[Tutorio LMS Backend](https://github.com/Arbazkhan001/tutorio-lms-backend)** | `Java 21`, `Spring Boot 3.4`, `AWS S3`, `Firebase` | Automated PDF certificate engine (`XDocReport`), pure Java HTML-to-PDF invoice engine (`OpenHTMLtoPDF`), and FCM push notifications. |
+| 🌳 **[PomoKing Tree Adoption System](https://github.com/Arbazkhan001/pomoking-tree-adoption-system)** | `Java 17`, `Spring Boot 3.3`, `Dynamic Split Payments` | 8-stage adoption & harvest lifecycle sequence, rider doorstep OTP delivery verification, and dynamic payment split engine (60/40). |
+| ⚡ **[TrackTool SaaS Backend](https://github.com/Arbazkhan001/tracktool-saas-backend)** | `Java 17`, `WebSockets`, `Razorpay`, `Cloudinary` | Real-time multi-tenant project management, live WebSocket STOMP messaging, Razorpay subscriptions, and Caffeine caching. |
+| 🌿 **[Organic Produce Marketplace](https://github.com/Arbazkhan001/organic-marketplace-backend)** | `Java 17`, `Cloudflare R2`, `Jeebly Courier`, `Stripe` | Organic e-commerce backend integrated with zero-egress Cloudflare R2 cloud storage, Jeebly logistics webhooks, and Stripe payments. |
+| 🛒 **[Angola Multi-Vendor E-Commerce](https://github.com/Arbazkhan001/angola-multivendor-ecommerce)** | `Java 17`, `Spring Boot 3.3`, `Shiprocket`, `RBAC` | Scalable multi-tenant vendor platform with multi-role RBAC security, Shiprocket logistics dispatch, and seller payouts. |
 
 ---
 
